@@ -39,6 +39,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            ReTaKVK/practica2:latest 
+            retakvk/practica2:latest 
             ghcr.io/retakvk/practica2:latest 
 
